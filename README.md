@@ -54,7 +54,7 @@
 ```python
 class AIEngineer:
     name        = "Nilaksh Thakur"
-    alias       = "Junior"
+    alias       = "Nihilanthrope"
     location    = "Kullu, Himachal Pradesh, India 🏔️"
     focus       = ["LLMs", "RAG Systems", "AI Agents", "MLOps", "GenAI Backends"]
     learning    = ["Diffusion Models", "RLHF", "Multi-Agent Orchestration"]
