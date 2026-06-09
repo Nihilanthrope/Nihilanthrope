@@ -17,12 +17,6 @@
 <br/>
 
 
-
-
-
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Nilaksh%20Thakur&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%20%7C%20%20GenAI%20%26%20LLM%20Systems&descColor=8b949e&descAlignY=58&descSize=18&animation=fadeIn)
-
 <h3>
   <samp>Building intelligent systems that actually ship — LLMs, RAG pipelines, and scalable ML backends.</samp>
 </h3>
