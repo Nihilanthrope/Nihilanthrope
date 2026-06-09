@@ -64,7 +64,7 @@ class AIEngineer:
         return "Building production-grade AI systems — from embedding pipelines to agentic workflows."
 ```
 
-I'm an AI/ML engineer with a deep focus on **Generative AI**, **LLM application development**, and **scalable ML system design**. My work sits at the intersection of research and engineering — I care about understanding *why* models work, not just plugging in APIs.
+I'm an AI/ML engineer with a deep focus on **Generative AI**, **LLM application development**, and **scalable ML system design**. My work sits at the intersection of research and engineering — I care about understanding *why/How* models work, not just plugging in APIs.
 
 **Currently exploring:**
 - 🔍 **RAG architectures** — hybrid retrieval, re-ranking, context compression
