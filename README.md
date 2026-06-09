@@ -37,10 +37,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nihilanthrope&color=58a6ff&style=flat-square&label=Profile+Views)
-![Years Badge](https://img.shields.io/badge/Focus-GenAI%20%7C%20LLMs%20%7C%20MLOps-58a6ff?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square)
-
 </div>
 
 ---
