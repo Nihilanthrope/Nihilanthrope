@@ -298,17 +298,10 @@ If you're building something interesting in the AI space, I'm always open to a c
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
 
-<sub>
-  <samp>
-    Visitors since 2024 →
-    <img src="https://profile-counter.glitch.me/Nihilanthrope/count.svg" alt="visitor count" />
-  </samp>
-</sub>
-
 <br/><br/>
 
 <samp>
-  <i>"The goal is not to build AI. The goal is to build AI that's worth building."</i>
+  <i>Every error, every search, every failed model makes you a better AI engineer🧋😝</i>
 </samp>
 
 </div>
