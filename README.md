@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nilaksh%20Thakur&fontSize=60&fontColor=fff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82GenAI%20%E2%80%82%7C%E2%80%82LLM%20Systems%20%E2%80%82%7C%E2%80%82MLOps&descColor=a0aec0&descAlignY=58&descSize=19&animation=fadeIn&stroke=58a6ff&strokeWidth=1)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nihilanthrope&fontSize=60&fontColor=fff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%7C%E2%80%82GenAI%20%E2%80%82%7C%E2%80%82LLM%20Systems%20%E2%80%82%7C%E2%80%82MLOps&descColor=a0aec0&descAlignY=58&descSize=19&animation=fadeIn&stroke=58a6ff&strokeWidth=1)
 
 <br/>
 
