@@ -43,7 +43,7 @@
 
 ```python
 class AIEngineer:
-    name        = "Nilaksh Thakur"
+    name        = "Nihilanthrope"
     alias       = "Nihilanthrope"
     location    = "Kullu, Himachal Pradesh, India 🏔️"
     focus       = ["LLMs", "RAG Systems", "AI Agents", "MLOps", "GenAI Backends"]
