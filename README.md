@@ -187,18 +187,22 @@ User Query
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    DSA / PROBLEM SOLVING                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 Problem Solving
 
 <div align="center">
 
-[![LeetCode](https://leetcode.com/u/nihilanthrope/)
+<a href="https://leetcode.com/u/nihilanthrope/">
+  <img src="https://leetcard.jacoblin.cool/nihilanthrope?theme=dark&extension=activity" alt="LeetCode Stats"/>
+</a>
 
-| Platform | Problems Solved | Streak | Rating |
-|---|---|---|---|
-| 🟡 LeetCode |
+<br>
+
+<a href="https://leetcode.com/u/nihilanthrope/">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nihilanthrope&theme=github-dark&limit=12" alt="LeetCode Badges"/>
+</a>
 
 </div>
+
 
 > *Focus areas: Dynamic Programming, Graphs, Trees, Sliding Window — standard interview prep alongside ML fundamentals.*
 
