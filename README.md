@@ -193,12 +193,10 @@ User Query
 <div align="center">
 
 [![LeetCode](https://leetcode.com/u/nihilanthrope/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourprofile)
 
 | Platform | Problems Solved | Streak | Rating |
 |---|---|---|---|
-| 🟡 LeetCode | `XXX+` | `XX days` | `~1XXX` |
-| 🟢 GeeksforGeeks | `XXX+` | `XX days` | `—` |
+| 🟡 LeetCode |
 
 </div>
 
